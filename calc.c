@@ -1,4 +1,4 @@
-#define SYSFS
+//#define SYSFS
 
 
 #include <linux/module.h>
